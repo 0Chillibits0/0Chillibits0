@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Miflal (Chilli_bits)</h1>
-<h3 align="center">🎮Love to play video games</h3>
-<div align=center>
-    <img src="https://github.com/0Chillibits0/.Miflal/assets/130387318/bf3975b9-5e72-4ade-83f4-b0b8f2102d83
+<h2 align="left"> 🎮Love to play video games</h3>
+<div align=Right>
+    <div h2 align="left"> 🎮Love to play video games</h3>
+        <div align=Right>
+    <img src="https://github.com/0Chillibits0/.Miflal/assets/130387318/bf3975b9-5e72-4ade-83f4-b0b8f2102d83=" width="690" height="505"/>
 </div>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0chillibits0&label=Profile%20views&color=0e75b6&style=flat" alt="0chillibits0" /> </p>
